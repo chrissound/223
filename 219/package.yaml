@@ -1,0 +1,9 @@
+name: testing123
+version: '0.1.0.0'
+author: HaskellNixCabalStarter
+maintainer: HaskellNixCabalStarter
+license: MIT
+dependencies:
+- base >=4.12 && <4.13
+library:
+  source-dirs: src
